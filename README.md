@@ -1,6 +1,6 @@
 # dilitace a eroze
 ## why does this project exist
-this project can be a good demo for learning python and to test how good they know it
+this repo can be a good way for students to learn and challenge themself with python/any language task with answer
 ## how to start
 ### the rules are simple: 
 1. create grid which holds random number from 1 to 10
